@@ -1,0 +1,65 @@
+{
+    "skills": [
+        {
+            "name": "Python",
+            "level": "Avançado"
+        },
+        {
+            "name": "JavaScript",
+            "level": "Intermediário"
+        },
+        {
+            "name": "C++",
+            "level": "Avançado"
+        }
+    ],
+
+    "studies": [
+        {
+            "course": "Curso Aprendendo a Programar",
+            "institution": "Instituto Federal de Pernambuco",
+            "start_year": 2019,
+            "year_completion": 2019
+        },
+        {
+            "course": "Técnico em Eletroeletrônica",
+            "institution": "Instituto Federal de Pernambuco",
+            "start_year": 2020,
+            "year_completion": 2023
+        }
+    ],
+    
+    "works": [
+        {
+            "role": "Desenvolvedor de Software",
+            "company": "Google",
+            "start_year": 2020,
+            "year_completion": null
+        }
+    ],
+
+    "awards": [
+        {
+            "name": "Olimpíada Garanhuense de Informática",
+            "institution": "Instituto Federal de Pernambuco",
+            "year": 2019
+        }
+    ],
+    
+    "projects": [
+        {
+            "name": "Sistema de Gerenciamento de Projetos",
+            "description": "Sistema web para gerenciamento de projetos",
+            "technologies": ["Python", "Django", "React"],
+            "start_year": 2021,
+            "year_completion": null
+        },
+        {
+            "name": "Jogo de RPG",
+            "description": "Jogo de RPG com gráficos 2D",
+            "technologies": ["Unity", "C#"],
+            "start_year": 2018,
+            "year_completion": 2020
+        }
+    ]
+  }
